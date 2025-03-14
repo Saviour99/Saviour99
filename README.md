@@ -20,9 +20,11 @@
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&amp;logo=express&amp;logoColor=white" alt="Express.js">&nbsp;
 <img src="https://img.shields.io/badge/-Shell-05122A?style=flat&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell">&nbsp;
-<img src="https://img.shields.io/badge/-Vim-05122A?style=flat&amp;logo=vim&amp;logoColor=019733" alt="Vim">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub"><br>
+<img src="https://img.shields.io/badge/-nginx-05122A?style=flat&amp;logo=nginx&amp;logoColor=white" alt="nginx">&nbsp;
+<img src="https://img.shields.io/badge/-gunicorn-05122A?style=flat&amp;logo=gunicorn&amp;logoColor=white" alt="gunicorn">&nbsp;
+<img src="https://img.shields.io/badge/-Vim-05122A?style=flat&amp;logo=vim&amp;logoColor=019733" alt="Vim">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 </p><h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
@@ -36,7 +38,7 @@
 <a href="https://www.saviourdela.tech"><img src="https://img.shields.io/badge/-saviourdela.tech-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
 <a href="https://linkedin.com/in/saviour-assandoh"><img src="https://img.shields.io/badge/-Saviour%20Assandoh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
 <a href="mailto:asandohs@gmail.com"><img src="https://img.shields.io/badge/-asandohs@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/dela.dev"><img src="https://img.shields.io/badge/-@dela.dev-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
+<a href="https://www.instagram.com/saviourassandoh"><img src="https://img.shields.io/badge/-@saviourassandoh-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
 </p>
 <hr>
 <p>Credits: <a href="https://github.com/saviour99">Saviour Assandoh</a></p>
