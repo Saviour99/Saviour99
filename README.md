@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&amp;logo=typescript" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask"><br>
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&amp;logo=express&amp;logoColor=white" alt="Express.js">&nbsp;
