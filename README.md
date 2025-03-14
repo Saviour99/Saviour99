@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&amp;logo=express&amp;logoColor=white" alt="Express.js">&nbsp;
 <img src="https://img.shields.io/badge/-Shell-05122A?style=flat&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub"><br>
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&amp;logo=nginx&amp;logoColor=009639" alt="Nginx">&nbsp;
 <img src="https://img.shields.io/badge/-Gunicorn-05122A?style=flat&amp;logo=gunicorn&amp;logoColor=499848" alt="Gunicorn">&nbsp;
 <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&amp;logo=vim&amp;logoColor=019733" alt="Vim">&nbsp;
