@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Saviour Assandoh Banner"></p>
+<p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jp" alt="Saviour Assandoh Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Saviour, a Full Stack Developer</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Saviour-->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/-Shell-05122A?style=flat&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub"><br>
-<img src="https://img.shields.io/badge/-nginx-05122A?style=flat&amp;logo=nginx&amp;logoColor=white" alt="nginx">&nbsp;
-<img src="https://img.shields.io/badge/-gunicorn-05122A?style=flat&amp;logo=gunicorn&amp;logoColor=white" alt="gunicorn">&nbsp;
+<img src="https://img.shields.io/badge/-nginx-05122A?style=flat&amp;logo=nginx alt="nginx">&nbsp;
+<img src="https://img.shields.io/badge/-gunicorn-05122A?style=flat&amp;logo=gunicorn alt="gunicorn">&nbsp;
 <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&amp;logo=vim&amp;logoColor=019733" alt="Vim">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 </p><h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
