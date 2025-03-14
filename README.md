@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/-Shell-05122A?style=flat&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub"><br>
-<img src="https://img.shields.io/badge/-nginx-05122A?style=flat&amp;logo=nginx&amp;logoColor=green" alt="nginx">&nbsp;
-<img src="https://img.shields.io/badge/-gunicorn-05122A?style=flat&amp;logo=gunicorn&amp;logoColor=green" alt="gunicorn">&nbsp;
+<img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&amp;logo=nginx&amp;logoColor=009639" alt="Nginx">&nbsp;
+<img src="https://img.shields.io/badge/-Gunicorn-05122A?style=flat&amp;logo=gunicorn&amp;logoColor=499848" alt="Gunicorn">&nbsp;
 <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&amp;logo=vim&amp;logoColor=019733" alt="Vim">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 </p><h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
