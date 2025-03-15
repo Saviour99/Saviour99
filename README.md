@@ -1,4 +1,4 @@
-<p><img src="https://www.canva.com/design/DAGh15wHA6U/HALzYgeMhJss0-PubUqYBg/edit?layoutQuery=github+banner&ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ" alt="Saviour Assandoh Banner"></p>
+<p><img src="https://www.canva.com/design/DAGh15wHA6U/HALzYgeMhJss0-PubUqYBg/edit?utm_content=DAGh15wHA6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Saviour Assandoh Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Saviour, a Full Stack Developer</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Saviour-->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
