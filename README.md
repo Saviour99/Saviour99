@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jp" alt="Saviour Assandoh Banner"></p>
+<p><img src="https://www.canva.com/design/DAGh15wHA6U/HALzYgeMhJss0-PubUqYBg/edit?layoutQuery=github+banner&ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ" alt="Saviour Assandoh Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Saviour, a Full Stack Developer</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Saviour-->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
