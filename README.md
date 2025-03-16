@@ -3,7 +3,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Saviour-->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp; I’m a product of ALX Software Engineers.<br>
+🎓 &nbsp; I’m a product of ALX Software Engineering.<br>
 🌱 &nbsp; I’m on track for learning more about backend development and cloud computing.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:asandohs@gmail.com">asandohs@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;Please have a look at my <a href="https://www.saviourdela.tech">Résumé from my portfolio website</a> for more details about me. I’m open to feedback and suggestions!</p>
